@@ -1127,6 +1127,9 @@
 	section.error-404 {
 		padding: 90px 0 90px
 	}
+	.none{
+    display:none;
+	}
 }
 @media (min-width: 768px) {
 	div.product.cmt-single-product-details div.images {
