@@ -112,12 +112,12 @@
 }
 .cmt-left-span .cmt-col-wrapper-bg-layer {
 	width: auto;
-	margin-left: -100px;
+	
 	right: 0
 }
 .cmt-right-span .cmt-col-wrapper-bg-layer {
 	width: auto;
-	margin-right: -100px;
+	
 	right: 0
 }
 .cmt-bg.cmt-bgimage-yes>.cmt-bg-layer,
@@ -1199,7 +1199,7 @@ body {
 	font-weight: 400
 }
 .featured-icon-box.style3 {
-	padding: 10px 50px 13px 0
+	padding: 5px 10px 5px 0
 }
 .featured-icon-box.style3 .featured-title h5 {
 	margin-bottom: 5px
