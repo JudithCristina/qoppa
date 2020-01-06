@@ -963,7 +963,7 @@ ul.project_info li span {
 .tp-cmt-video-play-btn:hover,
 .video-overlay.darkgrey,
 a.checkout-button {
-	background-color: #D6D252
+	background-color: #a4bd3e
 }
 .cmt-btn.cmt-btn-color-darkgrey.cmt-btn-style-border:hover,
 .cmt-icon.cmt-icon_element-border.cmt-icon_element-color-darkgrey,
@@ -2882,4 +2882,9 @@ ul.list-inline li {
 #logo-img{
 	height: 80px;
 	width: 280px;
+}
+.font-size{
+	font-size: 12px;
+	padding-left:22px ;
+	text-align: left;
 }
