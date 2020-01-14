@@ -448,6 +448,11 @@ a {
 	height: 220px!important;
 	width: 350px;
 }
+
+.height-image{
+	height: 250px!important;
+	width: 360px!important;
+}
 .pattern.style1 {
 	position: absolute;
 	bottom: -100px;
