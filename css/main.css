@@ -2001,6 +2001,19 @@ ul li .cmt-header-icon-box {
 	line-height: 34px;
 	border-radius: 0
 }
+#icon-whatssap {
+	display:block;
+	width:70px;
+	height:70px;
+	position: fixed;
+	right:20px;
+	bottom:120px;
+	border-radius:50%;
+	line-height:80px;
+	text-align:center;
+	z-index:999;
+}
+
 #totop.top-visible {
 	height: 40px;
 	width: 40px;
