@@ -324,7 +324,7 @@ body .page.sidebar-true .site-main {
 	overflow: hidden
 }
 a {
-	color: #081528
+	color: #a4bd3e
 }
 .alignleft {
 	float: left;
@@ -2062,7 +2062,7 @@ div.cmt-page-title-row>.cmt-bg-layer {
 }
 .contact-box {
 	padding: 30px 30px 30px;
-	border: 1px solid #ebeef0;
+	border: 1px solid rgb(57, 139, 135);
 	-webkit-box-shadow: 0 0 1px 0 rgba(34, 34, 34, .07);
 	-moz-box-shadow: 0 0 1px 0 rgba(34, 34, 34, .07);
 	box-shadow: 0 0 1px 0 rgba(34, 34, 34, .07)
